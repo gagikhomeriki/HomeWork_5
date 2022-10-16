@@ -1,0 +1,178 @@
+.container{
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+.sectionfirst{
+    background-image: url("./images/mohamed-ajufaan.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 662px;
+}
+
+.divtext{
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.divzetta{
+    float: left;
+    margin-left: 120px;
+}
+
+nav{
+    margin-left: 650px;
+}
+
+.middletext{
+    color: white;
+    margin-top: 50px;
+}
+
+.text1{
+    font-size: 60px;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-left: 120px;
+}
+
+.text2{
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+.text3{
+    padding-left: 120px;
+    padding-top: 250px;
+    font-size: 30px;
+    font-weight: bolder;
+    float: left;
+}
+
+.divarrow1{
+    width: 45px;
+    height: 45px;
+    background-color: white;
+    float: left;
+    background-image: url("./images/right\ \(1\).svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divarrow2{
+    width: 45px;
+    height: 45px;
+    background-color:#5863f8;
+    float: left;
+    background-image: url("./images/left.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.sectionlastdiv{
+    float: left;
+    margin-left: 830px;
+    margin-top: 240px;
+}
+
+.sectionsecond{
+    width: 1366px;
+    height: 662px;
+    background-color: beige;
+    position: relative;
+}
+
+.textcontentdiv{
+    margin: 130px;
+    position: absolute;
+}
+
+.divtext1h3{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.divtext1p{
+    font-size: 16px;
+    padding-top: 40px;
+}
+
+.divtext1p2{
+    font-size: 16px;
+    padding-top: 40px;
+}
+
+button{
+    border: 1px solid #5863f8 ;
+    width: 200px;
+    height: 50px;
+    background-color: #5863f8;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.timetoimages{
+    width: 600px;
+    height: 580px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 70px;
+}
+
+.firstimage{
+    float: left;
+}
+
+.secondimage{
+    float: right;
+    padding-right: 64px;
+}
+
+.thirdimage{
+    padding-top: 12px;
+    float: left;
+}
+
+footer{
+    width: 1366px;
+    border: 2px solid black;
+    height: 260px;
+    background-color: black;
+}
+
+.footertext{
+    padding-left: 130px;
+
+}
+
+.footertexth3{
+    color: white;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+.footertextp{
+    color: #b1b1b1;
+    padding-top: 20px;
+}
+
+.footerimages{
+    padding-top: 40px;
+    
+}
+
+.footertextp2{
+    color: #b1b1b1;
+    padding-top: 25px;
+}
